@@ -1828,9 +1828,10 @@ eslint-config-xo@^0.22.0:
   version "0.22.0"
   resolved "https://registry.yarnpkg.com/eslint-config-xo/-/eslint-config-xo-0.22.0.tgz#d55bff484e751dfe6c0750cd3617bc8c53994059"
 
-eslint-config-zavatta@^6.0.1:
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/eslint-config-zavatta/-/eslint-config-zavatta-6.0.1.tgz#a202e146c596471a8b74f427bab90dcf3dc97458"
+eslint-config-zavatta@^6.0.3:
+  version "6.0.3"
+  resolved "https://registry.yarnpkg.com/eslint-config-zavatta/-/eslint-config-zavatta-6.0.3.tgz#aaa3b6911e107918c7a247427c8e3ade88cbc95a"
+  integrity sha512-2Hr2Spq1JEGSFEheK9ZGAJ8h5DUXKbJ+zlJWftXvVP7r7pLM/5qZV7v5buFFxY5eDZy0pz9nOJOd0+hnjmn1mg==
   dependencies:
     babel-eslint "^7.2.3"
 
